@@ -1,4 +1,6 @@
-public class Main {
+package manual1;
+
+public class Manual1 {
     public static void main(String[] args) {
         System.out.println("Hello world!");
 
